@@ -8,19 +8,16 @@
   min-height: 0;
 
   &:first-child {
-    font-size: $font-size-large;
     top: 0;
     left: 0;
     border-top: none;
   }
   .title {
-    font-size: $font-size-large;
-    color: $color-font;
+
     position: absolute;
     top: 0;
     left: 0;
     padding: 4px 6px;
-    background-color: $theme-light;
   }
 
 }
